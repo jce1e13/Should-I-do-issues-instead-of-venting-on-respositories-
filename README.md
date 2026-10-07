@@ -1,2 +1,1 @@
-# Should-I-do-issues-instead-of-venting-on-respositories-
-its a true question 
+so I see that I haven’t made a repository in a long while-its been like a week. but I keep venting about weird things, and my last repository was about a problem on my software-its good now because I have the app, but should I have just reported it on issues then-right? well its too late bc I changed where I’m using GitHub, so I guess I’m venting again for no reason lololol. Anywho I will report any issues on the issues thingy-I might still write about it though because I’m weird
